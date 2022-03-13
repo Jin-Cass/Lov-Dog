@@ -1,5 +1,6 @@
 body{ font-family:"Montserrat";
-background-color:#494645;}
+background-color:#494645;
+}
 
 .h1 {font-family: 'Montserrat Alternates', sans-serif; 
     font-size: 3rem;  
@@ -63,8 +64,21 @@ background-color:#f0e3e4;
 .pri{padding:0 0 3%;
 color:#a7a3a1}
 
+#cta{background-color:#ff4c68;
+padding:5% 15%;
+text-align:center; 
+    line-height: 1.5em;
+    
 
+}
+.barra{font-family: 'Montserrat Alternates', sans-serif; 
+    line-height: 1.5em;
+    padding:2%;
+}
 
+#footer{background-color: #ffffff;
+text-align: center;
+padding: 3% 5%;
+font-family: 'Outfit', sans-serif;
 
-
-
+}
